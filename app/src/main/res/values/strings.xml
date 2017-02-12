@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Toast</string>
+    <string name="toast_text">Hello Toast!</string>
+    <string name="welcome_message">Click the button to see me toasting!!</string>
+    <string name="button_text">Click me!</string>
+    <string name="custom_toast_message">This is a custom toast!</string>
+</resources>

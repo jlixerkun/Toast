@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toast</string>
+    <string name="button_text">Haz clic!</string>
+    <string name="toast_text">Hola Toast!</string>
+    <string name="welcome_message">Haz clic en el botón para ver un toast!</string>
+    <string name="custom_toast_message">Este es un mensaje personalizado</string>
+</resources>
